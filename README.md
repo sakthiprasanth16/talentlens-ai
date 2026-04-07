@@ -5,10 +5,8 @@
 ![TalentLens Banner](https://img.shields.io/badge/TalentLens-AI%20Resume%20Screener-blue?style=for-the-badge&logo=google&logoColor=white)
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Hugging%20Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/prasanthr0416/talentlens-ai)
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+
 [![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
 **An AI-powered HR tool that screens, scores, and ranks candidates by analyzing resumes against job descriptions using Google Gemini 2.5 Flash.**
 
