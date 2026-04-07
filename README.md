@@ -12,7 +12,7 @@
 
 **An AI-powered HR tool that screens, scores, and ranks candidates by analyzing resumes against job descriptions using Google Gemini 2.5 Flash.**
 
-[🚀 Live Demo](https://huggingface.co/spaces/prasanthr0416/talentlens-ai) · [📖 How It Works](#how-it-works) · [⚙️ Setup](#setup) · [🐳 Deploy](#deployment)
+[🚀 Live Demo](https://huggingface.co/spaces/prasanthr0416/talentlens-ai)
 
 </div>
 
